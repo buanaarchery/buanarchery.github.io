@@ -1,11 +1,24 @@
-# Selamat datang!
+# README
 
-Assalamu'alaikum, 🤝
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Selamat datang di halaman ini 
+Things you may want to cover:
 
-Baca-baca dulu pelbagai dokumentasi tentang:
-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-- [GitHub Pages](https://help.github.com/categories/github-pages-basics/)
+* Ruby version
 
-Setelah baca, baru bertanya di [grup Telegram BuanaStudios](https://t.me/buanastudios).
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
