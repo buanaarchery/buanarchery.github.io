@@ -3,20 +3,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: 'Programmer Zaman Now',
+    title: 'Buana Studios',
     tagline: 'Tempat Belajar untuk Menjadi Software Development Expert yang Zaman Now Banget!',
-    url: 'https://www.programmerzamannow.com',
+    url: 'https://buana.studio',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/pzn.png',
-    organizationName: 'ProgrammerZamanNow',
-    projectName: 'programmerzamannow.github.io',
+    organizationName: 'BuanaStudios',
+    projectName: 'buanastudios.github.io',
     themeConfig: {
         navbar: {
-            title: 'Programmer Zaman Now',
+            title: 'Buana Studios',
             logo: {
-                alt: 'Programmer Zaman Now',
+                alt: 'Buana Studios',
                 src: 'img/pzn.png',
             },
             items: [
